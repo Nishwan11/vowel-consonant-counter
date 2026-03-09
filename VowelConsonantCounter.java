@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//Nishwan
 
 public class VowelConsonantCounter {
 
